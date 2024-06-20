@@ -1,5 +1,5 @@
 # 💫 About Me:
-Future Full-stack development.<br><br>My current position is frontend (React) developer, i know also backend (Node, Express, NestJS)<br>
+Full-stack development with React and Laravel knowledge.
 
 
 ## 🌐 Socials:
