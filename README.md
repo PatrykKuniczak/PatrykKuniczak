@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack development with React and NestJS and Laravel knowledge.
+Full-stack developer with React and NestJS knowledge.
 
 
 ## 🌐 Socials:
