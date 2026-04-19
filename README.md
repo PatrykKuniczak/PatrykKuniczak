@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with React, NextJS, NestJS knowledge.
+Full-stack developer with React, NextJS, NestJS, .NET knowledge.
 
 I have also basic knowledge about Laravel, Ruby On Rails, Rust and C.
 
